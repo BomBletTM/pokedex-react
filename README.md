@@ -51,6 +51,7 @@ A simple single-page React application that displays a list of Pokémon with a n
 ```bash
 npm install
 npm start
+```
 
-🔗 My GitHub
+## 🔗 My GitHub
 github.com/BomBletTM
