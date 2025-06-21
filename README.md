@@ -20,6 +20,7 @@ A simple single-page React application that displays a list of Pokémon with a n
 
 ## 📁 Project Structure
 
+<pre>
 ./
 ├── App.jsx
 ├── App.css
@@ -35,6 +36,7 @@ A simple single-page React application that displays a list of Pokémon with a n
 │ ├── pokedex-demo.jpg
 │ └── search-functionality.jpg
 └── README.md
+</pre>
 
 ## 🧠 What I Learned
 
