@@ -10,15 +10,17 @@ A simple single-page React application that displays a list of Pokémon with a n
 - Array methods (`map`, `filter`)
 - Component-based architecture
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Main Page](./screenshots/home-page.jpg)
-![Main Page](./screenshots/pokedex-demo.jpg)
-![Main Page](./screenshots/search-functionality.jpg)
+
+![Pokedex Demo](./screenshots/pokedex-demo.jpg)
+
+![Search Functionality](./screenshots/search-functionality.jpg)
 
 ## 📁 Project Structure
 
-Pokedex project/
+./
 ├── App.jsx
 ├── App.css
 ├── Home.jsx
@@ -28,8 +30,10 @@ Pokedex project/
 ├── Search.jsx
 ├── index.html
 ├── index.jsx
-├── /screenshots/
-│ └── home-page.png
+├── screenshots/
+│ ├── home-page.jpg
+│ ├── pokedex-demo.jpg
+│ └── search-functionality.jpg
 └── README.md
 
 ## 🧠 What I Learned
